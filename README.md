@@ -1,64 +1,64 @@
 
-﻿# Cyber Portfolio Roadmap
+# Cybersecurity Portfolio Roadmap
 
-Public plan of record for my cybersecurity labs and milestones.
-=======
-# Cyber Portfolio Roadmap
-
-> Hello, friend. This repo tracks my hands-on cybersecurity portfolio and serves as a public plan of record for labs, artifacts, and milestones.
+Public plan of record for my cybersecurity labs, skills development, and milestones.  
+This repo tracks my hands-on projects, certifications, and home lab builds as I grow in the cyber field.
 
 ---
 
-## 📌 Scope & Goals
-**Primary goal:** demonstrate practical capability across blue-team, offensive security (ethical), forensics, scripting/automation, and cloud security.
-
-**Outcomes I’ll show:**
-- End-to-end investigations (data → analysis → detection/remediation)
-- Reproducible lab write-ups with screenshots, queries, and scripts
-- Clear documentation & version control discipline
+## 🎯 Purpose
+- Document my cybersecurity learning journey  
+- Showcase hands-on labs and projects  
+- Build a portfolio that demonstrates practical skills for employers  
 
 ---
 
-## 🧭 Labs (Workstream Tracker)
-- [ ] **Network Analysis — Wireshark PCAPs**  
-  *Artifacts:* sanitized PCAPs, filters/notes, screenshots, write-ups  
-  *Repo:* `network-analysis-wireshark` (link when created)
-
-- [ ] **SIEM Detection Lab — ELK/Splunk**  
-  *Artifacts:* ingest config, saved searches/dashboards, Sigma/KQL rules, detections  
-  *Repo:* `siem-detection-lab`
-
-- [ ] **Digital Forensics — Autopsy/Volatility**  
-  *Artifacts:* case notes, timelines, IOCs, screenshots, report  
-  *Repo:* `digital-forensics-lab`
-
-- [ ] **Pentest Lab — DVWA / Metasploitable (Ethical/Isolated)**  
-  *Artifacts:* recon results, exploit chain, privesc notes, remediation guidance  
-  *Repo:* `pentest-lab`
-
-- [ ] **Cyber Automation Scripts — Python/Bash**  
-  *Artifacts:* log parser, hash checker, mini port scanner, CLI docs & tests  
-  *Repo:* `cyber-scripts`
-
-- [ ] **Cloud Security Demos — AWS/GCP/Azure**  
-  *Artifacts:* IAM/S3 hardening demos, misconfig reproduction, detections/alerts  
-  *Repo:* `cloud-security-lab`
+## 🗂 Roadmap Board
+📌 [View Project Roadmap](../../projects/1)  
 
 ---
 
-## ✅ Definition of Done (per lab)
-- [ ] Repo created with `README.md` (Scenario → Method → Findings → Mitigations)  
-- [ ] Repro steps are **clear and tested**  
-- [ ] Screenshots & queries/scripts included  
-- [ ] Risks & **defenses** documented  
-- [ ] Final summary + “What I’d improve next”  
-- [ ] Linked back here under **Labs** (above)
+## ✅ Milestones
+
+### Phase 1 – Foundations
+- [x] Create GitHub repo and roadmap  
+- [ ] Set up GitHub Project board for tracking  
+- [ ] Document Security+ and Network+ study notes  
+
+### Phase 2 – Home Labs
+- [ ] Build a VirtualBox/VMware home lab  
+- [ ] Install Kali Linux and Windows VM  
+- [ ] Basic vulnerability scanning (Nmap, Nessus)  
+- [ ] Write-ups for each lab  
+
+### Phase 3 – Blue Team Skills
+- [ ] SIEM lab (Splunk or ELK)  
+- [ ] Windows Event Log analysis  
+- [ ] Wireshark packet captures and analysis  
+
+### Phase 4 – Red Team Skills
+- [ ] Try Hack Me / HackTheBox write-ups  
+- [ ] Basic exploitation labs  
+- [ ] Document methodology with screenshots  
+
+### Phase 5 – Advanced Projects
+- [ ] Threat hunting scenarios  
+- [ ] Incident response tabletop exercises  
+- [ ] Cloud security (AWS free tier labs)  
 
 ---
 
-## 🧩 Project Board / Roadmap
-- Track with **Issues** + **Project** (Kanban or Roadmap)
-- Labels: `lab`, `investigation`, `docs`
+## 📚 Certifications
+- [x] Bachelor’s Degree in Cybersecurity  
+- [x] CompTIA Security+  
+- [x] CompTIA Network+  
+- [x] ISC² CC  
 
-> Add a Date field in the Project to unlock the **Roadmap** (timeline) view.
->>>>>>> 8712391 (chore: init roadmap repo with README and issue template)
+---
+
+## 🔗 Next Steps
+1. Keep README updated with progress  
+2. Add lab write-ups as separate markdown files  
+3. Track tasks using GitHub Projects & Issues  
+
+---
